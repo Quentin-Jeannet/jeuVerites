@@ -13,9 +13,9 @@
         <li style="margin-bottom: 15px;">J'ai moins de 30 ans</li>
         <li style="margin-bottom: 15px;">Je suis de la famille de Marie</li>
         <li style="margin-bottom: 15px;">Je travaille ou j'ai travaillé a la Société Générale</li>
-        <li style="margin-bottom: 15px;">J'ai des petis enfants</li>
+        <li style="margin-bottom: 15px;">J'ai des petits enfants</li>
         <li style="margin-bottom: 15px;">Je porte un robe</li>
-        <li style="margin-bottom: 15px;">Je suis présentt au Mariage de Thomas et Marie</li>
+        <li style="margin-bottom: 15px;">Je suis présent au Mariage de Thomas et Marie</li>
     </ol>
 </body>
 </html>
